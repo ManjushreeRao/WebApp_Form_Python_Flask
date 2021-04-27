@@ -103,7 +103,6 @@ def api_retrieve(team_id) -> str:
 
 @app.route('/api/v1/teams', methods=['POST'])
 def api_add() -> str:
-
     content = request.json
 
     cursor = mysql.get_db().cursor()
