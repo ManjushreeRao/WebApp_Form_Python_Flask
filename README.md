@@ -20,3 +20,16 @@
 ## [DeleteRecord]
 (https://github.com/gn32/WebForms_BaseballData/blob/main/Images/DeletedRecordofmytable.1.PNG)
 (https://github.com/gn32/WebForms_BaseballData/blob/main/Images/DeletedRecordofmytable.2.PNG)
+## [Postman GET All Teams](https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_ViewAll.PNG)
+## [Postman GET 1 Team](https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_Get2.PNG)
+## [POST] 
+(https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_Post(1).PNG)
+(https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_Post(2).PNG)
+## [PUT] 
+(https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_Put(1).PNG)
+(https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_Put(2).PNG)
+## [DELETE] 
+(https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_Delete(1).PNG)
+(https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_Delete(2).PNG)
+(https://github.com/gn32/WebForms_BaseballData/blob/main/Images/Postman_Delete(3).PNG)
+
